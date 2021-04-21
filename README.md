@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @similar-to-ethab
-- 👀 I’m interested in cs (broad, ik)
-- 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on web developement
-- I want to learn to develop apps and games
-- 📫 How to reach me 
-    twitter - @similartoethab
+My name is Ethan, my twitter is <a href='https://twitter.com/similartoethab'>@similartoethab</a>, and I am a coder. I am proficient with html, css, and js. Currently, I am working with C# on a Unity Project (4/21/21). It is <a href="similar-to-ethab.github.io/notAnything.html">this game</a> I created on my website, but made in Unity and with C#. I am working on creating a rules page (4/21/21) so the objective is more clear.
 
-<!---
-similar-to-ethab/similar-to-ethab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am open to collaboration, because I would like to learn more about stuff. If you have any recommendations or want to contact me, pm me at my twitter <a href='https://twitter.com/similartoethab'>@similartoethab</a>
